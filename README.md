@@ -9,7 +9,10 @@ This is a simple Quiz App built using HTML, CSS, and JavaScript. It allows users
 - Displays the final score.
 
 ## Screenshots
+Qestion in the quiz: 
 ![Screenshot 1](./pic1.png)
+
+Display of final results:
 ![Screenshot 2](./pic2.png)
 
 ## How to Use
